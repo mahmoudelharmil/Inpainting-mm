@@ -1,7 +1,7 @@
 import cv2
 import os
 import sys
-sys.path.insert(0, '../')
+sys.path.insert(2, 'Inpainting-mm')
 import numpy as np
 import math
 import glob
